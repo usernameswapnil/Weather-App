@@ -156,3 +156,4 @@ async function fetchSearchWeatherInfo(city) {
     //hW
   }
 }
+// finally done lets goooo
